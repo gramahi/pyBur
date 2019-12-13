@@ -5,8 +5,8 @@ The main objective is to build a Bubble Plot that showcases the relationship bet
 Average Fare ($) Per City
 
 Total Number of Rides Per City
-T
-otal Number of Drivers Per City
+
+Total Number of Drivers Per City
 
 City Type (Urban, Suburban, Rural)
 
